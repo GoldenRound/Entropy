@@ -1,0 +1,5 @@
+Do not do projectile ids in number form, only do in written examples, e.g. don't do 524, do IchorSplash
+Textures - Make sure both the CS and the PNG are both named the same (minus extensions) and that the texture link in the cs states the link to the texture location, e.g. "ModName.Items.Weapons" - this auto assumes that the texture file is in this location, this can also mean you can possibly have textures in a seperate folder, but this is stupid (in my opinion)
+Coding - Do not be afraid to experiment, as while asking for help saves you time, it does not save the helper's time, just break the boundries a bit.
+Proj damages - I've noticed that on dual use weapons, they include a limiter on the projectiles which limits the damage of said projectiles, just turn the native .1f to 1f or whatever other value you desire.
+Modname.cs is SUPER important, I had so much trouble figuring it out because I lost it at one point, and even when I asked for help, I think people got tired of trying to explain what was missing, SO MAKE SURE YOU KEEP THIS, or recognize the error when you see it

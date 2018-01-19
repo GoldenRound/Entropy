@@ -1,0 +1,26 @@
+12/18/2017
+
+Projectiles do super low damage, often 1 or 2
+BloodMorne ^^^ (Fixed)
+Bone CLaymore ^^ (fixed)
+Meteorite Claymore ^^ (fixed)
+Night's Catalyst (Fixed)
+HELLSTONE CLAYMORE - FIX NOW, FUCKING LIT (same reason as above ^^) (fixed)
+
+(Change proper projectile damage by changing .1f to 1f, which increases damage exponentially
+
+Copper Claymore - fine
+Cyst Claymore ^
+Dusk Claymore ^
+Fiberglass Claymore ^
+Overgrowth Claymore ^
+Gold Claymore ^
+Iron CLaymore ^
+Lead Claymore ^
+Platinum Claymore ^^
+Silver Claymore ^^
+Tin Claymore ^^
+Tungsten Claymore ^^
+Wooden Claymore ^^
+
+Rai Blade - Fucking Weird (Fixed?) (sort of, still needs a change)

@@ -1,0 +1,29 @@
+Good lord, I've been a lazy slacker, this was slated for like, october or so, and it's here two months later, geez.
+I lost all my progress on the mod except sprite work, losing all your code can be pretty de-motivating. I've come back with new inspiration to see this mod through to the end. This mod includes all balanced versions of the claymores. I also learned a lesson about backing up data, which is important.
+So the mod offers right now 19 total weapons, I might add a few additional ones just to bolster the roster a little here in the next few days.
+God I hope I'm not missing anything
+
+Mod Version - 1.0.0, more updates in the coming weeks/days
+
+_____________________________________________________________________
+Additonal Information
+
+The next few updates will include minor changes, while the more major ones will include armor and possibly enemies, gearing up to bosses
+
+_____________________________________________________________________
+
+The mod page will be up soon enough, next update
+There will be a dedicated GitHub so I don't lose this data this time and so you can see what shoddy code I'm using
+The mod is now open source so there will be literally no chance of me dropping the ball this time, I'm also including minor notes such as stuff I had to fix before releasing the version, as well as a mini mod guide for common errors I've stumbled across
+I've stumbled across more errors this time remaking the mod, then last time. Some were tiny things like a spelling error, others were simply I used a number value when it was asking for a ID value (look in text files in mod, can be found when looking in code)
+More balancing changes along the way, I just haven't had much time to play with everything. Here in the coming days, I'll more than likely remove most of my mod list and do a normal playthrough and see how the stuff balance 
+
+_____________________________________________________________________
+Spriting Help
+
+I suck at spriting so feel free to upload resprites when I make the mod home page, especially for the Hellstone Claymore, as I'm extremly unhappy with that one.
+MOD VERSIONS
+
+1.0.0  - Balanced and Tested (So sorry this took so long, I recently lost all the data on PC, including a large majority of the data on this mod) (it really took so long because I was lazy after my computer died)
+0.92.0 - 19 items total, all claymores, unbalanced, untested (3 tested, copper, tin, and wood claymores, but still unbalanced)
+0.12.0 - 3 items total, all claymores, unbalanced, tested, Copper, Tin, and Wood claymores
